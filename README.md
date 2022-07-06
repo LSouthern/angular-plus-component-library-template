@@ -62,6 +62,14 @@ That's basically it. Thank you so much for using this template and thank you to 
 
 
 
+One additional thing you could do that I've gotten into the habit of doing is using a UI Framework to build and test my individual components in an isolated environment before using them in the app.
+The one I use is called storybook which is something I've been using during my day job so that's why I've stuck with it but I'm sure there are others out there.
+
+If you want to give that a go, the link is just below.... lol, that rhymed:
+https://storybook.js.org/
+
+
+
 P.S.
 
 Please don't hesitate to pass on any advice my way for things I could've done better. I'm very much still learning about writing software and development practices so I appreciate the feedback.
